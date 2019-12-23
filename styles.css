@@ -10,6 +10,7 @@
   display: -ms-flexbox !important;
   display: flex !important;
   background-color: #0462c1;
+  color: #fff !important;
 }
 .p-3 {
   padding: 1rem !important;
