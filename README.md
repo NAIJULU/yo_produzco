@@ -14,7 +14,7 @@ En esta página en la parte superior derecha encuentras el botón "clone or dowl
 
 # Instalación
 
-- En el navegador Google Chrome ir a [chrome://extensions](chrome://extensions) También se puede abrir desde el menú de configuración de Chrome, vas a "Más Herramientas" y eliges "Extesniones"
+- En el navegador Google Chrome ir a [chrome://extensions](chrome://extensions) También se puede abrir desde el menú de configuración de Chrome, vas a "Más Herramientas" y eliges "Extensiones"
 - Habilitar el módo desarrollador haciendo clic en el switch "Developer mode" ubicado en la parte superior derecha.
 - Clic en "LOAD UNPACKED" y selecciona el directorio donde hayas descomprimido el archivo que descargaste.
 
