@@ -1,0 +1,35 @@
+{
+  "images": [
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/56.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/57.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/58.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/59.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/60.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/61.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/62.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/63.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/64.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/65.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/66.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/67.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/68.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/69.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/70.png"
+  ],
+  "hosts": [
+    "www.dian.gov.co",
+    "muisca.dian.gov.co",
+    "www.registraduria.gov.co",
+    "id.presidencia.gov.co",
+    "www.runt.com.co",
+    "eldorado.aero",
+    "www.canalrcn.com",
+    "www.caracoltv.com"
+  ],
+  "messages": [
+    "<h2>¡Exigimos!</h2><p>El retiro del proyecto de ley de reforma tributaria en tránsito en el Congreso de la República.</p>",
+    "<h2>¡Exigimos!</h2><p>Derogar el holding financiero con el que se creó el Grupo Empresarial Bicentenario</p>",
+    "<h2>¡Exigimos!</h2><p>Disolver el Esmad y depurar la Policía</p>",
+    "<h2>¡Exigimos!</h2><p>Definir políticas ambientales para la protección de páramos y medio ambiente.</p>"
+  ]
+}

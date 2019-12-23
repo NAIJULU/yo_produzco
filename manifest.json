@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+
+  "name": "Yo Produzco",
+  "version": "0.1.0",
+  "description": "",
+  "permissions": [
+    "https://raw.githubusercontent.com/NAIJULU/paro_nacional/master/config.json",
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "css": ["styles.css"],
+      "js": ["axios.min.js", "content.js"],
+      "matches": ["<all_urls>"],
+      "run_at": "document_end"
+    }
+  ]
+}
