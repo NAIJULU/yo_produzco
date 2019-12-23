@@ -1,6 +1,8 @@
 let domain = document.domain;
 
-fetch("https://github.com/NAIJULU/yo_produzco/blob/master/config.json")
+fetch(
+  "https://raw.githubusercontent.com/NAIJULU/yo_produzco/master/config.json"
+)
   .then(res => res.json())
   .then(response => {
     let urlsBoicot = response.hosts;

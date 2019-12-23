@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "description": "",
   "permissions": [
-    "https://github.com/NAIJULU/yo_produzco/blob/master/config.json",
+    "https://raw.githubusercontent.com/NAIJULU/yo_produzco/master/config.json",
     "activeTab"
   ],
   "content_scripts": [
