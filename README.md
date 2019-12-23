@@ -6,6 +6,10 @@ Buscamos que todas las personas inconformes con las políticas del Gobierno de C
 
 # ¿Cómo descargar?
 
+- Clic en "clone or download"
+- Clic en "Dowload ZIP"
+- Una vez descargado, debes descomprimir el ZIP en cualquier directorio, en el paso siguiente de instalción deberás seleccioanr ese directorio.
+
 # Instalación
 
 - En el navegador Google Chrome ir a [chrome://extensions](chrome://extensions) También se puede abrir desde el menú de configuración de Chrome, vas a "Más Herramientas" y eliges "Extesniones"

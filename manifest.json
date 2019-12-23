@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "description": "",
   "permissions": [
-    "https://raw.githubusercontent.com/NAIJULU/paro_nacional/master/config.json",
+    "https://github.com/NAIJULU/yo_produzco/blob/master/config.json",
     "activeTab"
   ],
   "content_scripts": [
