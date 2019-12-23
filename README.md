@@ -6,6 +6,8 @@ Buscamos que todas las personas inconformes con las políticas del Gobierno de C
 
 # ¿Cómo descargar?
 
+En esta página en la parte superior derecha encuentras el botón "clone or dowload", ubícalo y sigue las siguientes instrucciones:
+
 - Clic en "clone or download"
 - Clic en "Dowload ZIP"
 - Una vez descargado, debes descomprimir el ZIP en cualquier directorio, en el paso siguiente de instalción deberás seleccioanr ese directorio.
