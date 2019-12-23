@@ -9,8 +9,6 @@
 .d-flex {
   display: -ms-flexbox !important;
   display: flex !important;
-  background-color: #0462c1;
-  color: #fff !important;
 }
 .p-3 {
   padding: 1rem !important;
@@ -35,13 +33,14 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
+  color: #212529;
   text-align: left;
+  background-color: #fff;
 }
 
 .h2,
 h2 {
   font-size: 2rem;
-  color: #fff !important;
 }
 p {
   margin-top: 0;
